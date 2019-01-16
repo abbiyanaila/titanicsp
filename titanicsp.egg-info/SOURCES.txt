@@ -1,0 +1,10 @@
+README.md
+setup.py
+titanicsp/__init__.py
+titanicsp/abstrac.py
+titanicsp/prediction.py
+titanicsp/utils.py
+titanicsp.egg-info/PKG-INFO
+titanicsp.egg-info/SOURCES.txt
+titanicsp.egg-info/dependency_links.txt
+titanicsp.egg-info/top_level.txt

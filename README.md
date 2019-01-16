@@ -1,1 +1,1 @@
-# titanicsp
+# Example Package
