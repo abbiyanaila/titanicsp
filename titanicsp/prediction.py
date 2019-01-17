@@ -1,4 +1,4 @@
-from tsp.utils import Loader
+from titanicsp.utils import Loader
 
 class Prediction(object):
     def __init__(self, path):
